@@ -45,3 +45,20 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# Data #
+######################
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shx
+*.kml
+*.cpg
+*.kmz
+*.xml
+*.lock
+*.hdf
+
